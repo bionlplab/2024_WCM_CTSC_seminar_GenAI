@@ -14,7 +14,7 @@ The emergence of ChatGPT and other large language models (LLMs) has the potentia
 4/29/2024 | Clinical Evidence Extraction and Summarization Using Generative AI | Gongbo Zhang | Columbia University
 5/20/2024 | Large Models, Big Footprint: How Large Language Models are Transforming Research and Practice | Trevor A. Cohen | University of Washington
 6/24/2024 | Occurrence, detection, or prevention of factual errors by LLMs | Tanya Goyal | Princeton University
-9/30/2024 | Language Modeling for Biomedicine: Evaluation, Augmentation, and Applications | Qiao Jin | NCBI/NILM/NIH
+9/30/2024 | Language Modeling for Biomedicine: Evaluation, Augmentation, and Applications | Qiao Jin | NLM/NIH
 10/28/2024 | Large Language Models for Healthcare and Medicine | Yonghui Wu | University of Florida
 11/18/2024 | How does it know that? Surprising abilities and new challenges of LLMs | Timothy Miller | Harvard Medical School
 12/16/2024 | TBD | Karthik Natarajan | Columbia University
