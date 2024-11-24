@@ -18,3 +18,7 @@ The emergence of ChatGPT and other large language models (LLMs) has the potentia
 10/28/2024 | Large Language Models for Healthcare and Medicine | Yonghui Wu | University of Florida
 11/18/2024 | How does it know that? Surprising abilities and new challenges of LLMs | Timothy Miller | Harvard Medical School
 12/16/2024 | TBD | Karthik Natarajan | Columbia University
+
+### Acknowledgments
+
+This work was supported by the National Center for Advancing Translational Sciences (NCATS) of the National Institutes of Health (NIH) under grant numbers UL1TR002384
