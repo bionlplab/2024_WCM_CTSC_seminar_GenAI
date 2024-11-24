@@ -21,4 +21,4 @@ The emergence of ChatGPT and other large language models (LLMs) has the potentia
 
 ### Acknowledgments
 
-This work was supported by the National Center for Advancing Translational Sciences (NCATS) of the National Institutes of Health (NIH) under grant numbers UL1TR002384
+This work was supported by the National Center for Advancing Translational Sciences (NCATS) of the National Institutes of Health (NIH) under grant numbers UL1TR002384.
